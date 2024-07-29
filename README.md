@@ -5,4 +5,4 @@ For me, the steps were as easy as:
 	- echo "learning git branches" >> README.md, or
 	- ```touch README.md```, open and it with vi/vim
 	- straightaway open a vi/vim editor and write with ```vim README.md```
-All the three are great, depending on how good you are with shell/linux scripting commands. Make sure to use ```i``` for insert when you open vi/vim, and press ```esc``, type ```:wq``` to exit it. ```:wq``` means literally to write and quit!
+All the three are great, depending on how good you are with shell/linux scripting commands. Make sure to use ```i``` for insert when you open vi/vim, and press ```esc```, type ```:wq``` to exit it. ```:wq``` means literally to write and quit!
