@@ -29,4 +29,4 @@ to this:
 Then `git add .` the changes, do a `git commit`, which opens an vi/vim with tons of errors but just type `:wq` and click enter. Boom! The conflicts have been merged. 
 That is it, we have gone through the basics of creating branches, merging them and dealing with any conflicts which may emerge. 
 
-Thank you, and leave a star if impressed. You can email me [here](bettkipkemoo@gmail.com)
+Thank you, and leave a star if impressed. You can email me @ bettkipkemoo@gmail.com
