@@ -14,5 +14,5 @@ All the three are great, depending on how good you are with shell/linux scriptin
 - Use `git status` to see the changes in your directory, and `git branch -a` to see the branches in the working directory and the one with * is where you are currently checked in.
 - To merge the changes in the other branches to the main/master, simply use `git merge [branchname]`
 
-## Merging Conflicts ## Credits to [Net-Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc)
+_ Merging Conflicts _ Credits to [Net-Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc)
 Conflicts do emerge if one file is edited on the master/main branch, and a branch concurrently. For instance, let's say there is person a editing [file-1.txt](file-1.txt) from the master/main, and another on test-1 branch, there would be conflicts when merging it.
