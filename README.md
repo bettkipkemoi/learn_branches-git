@@ -17,3 +17,7 @@ All the three are great, depending on how good you are with shell/linux scriptin
 ## Merging Conflicts 
 *Credits to [Net-Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc)*
 Conflicts do emerge if one file is edited on the master/main branch, and a branch concurrently. For instance, let's say there is person a editing [file-1.txt](file-1.txt) from the master/main, and another on test-1 branch, there would be conflicts when merging it.
+For instance, edit and commit the changes on the file while both on master/main, and on the branch. You will get a similar response to the following if you try to merge it:
+> Auto-merging file-1.txt
+> CONFLICT (content): Merge conflict in file-1.txt
+> Automatic merge failed; fix conflicts and then commit the result.
