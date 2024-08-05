@@ -4,7 +4,7 @@ For me, the steps were as easy as:
 - create a new directory `mkdir learning_branches && cd learning_branches`
 - create a readme file. Use any of the three options:
 	- echo "learning git branches" >> README.md, or
-	- `touch README.md`, open and it with vi/vim
+	- `touch README.md`, open it with vi/vim by `vi README.md` or `vim README.md`, or any other editor such as the VS Code or PyCharm
 	- straightaway open a vi/vim editor and write with `vim README.md`
 All the three are great, depending on how good you are with shell/linux scripting commands. Make sure to use `i` for insert when you open vi/vim, and press `esc`, type `:wq` to exit it. `:wq` means literally to write and quit!
 - To create a new branch, we use either:
@@ -26,7 +26,7 @@ To fix it, simply go to the file delete the error messages as seen here:
 ![screenshot of the error message](/images/image_1.png)
 to this:
 ![screenshot of the fixed error message](/images/image_2.png)
-Then `git add .` the changes, do a `git commit`, which opens an vi/vim with tons of errors but just type `:wq` and click enter. Boom! The conflicts have been merged. 
+Then `git add .` the changes, do a `git commit`, which opens a vi/vim with tons of errors but just type `:wq` and click enter. Boom! The conflicts have been merged. 
 That is it, we have gone through the basics of creating branches, merging them and dealing with any conflicts which may emerge. 
 
 Thank you, and leave a star if impressed. You can email me @ bettkipkemoo@gmail.com
