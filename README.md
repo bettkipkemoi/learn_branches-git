@@ -15,4 +15,4 @@ All the three are great, depending on how good you are with shell/linux scriptin
 - To merge the changes in the other branches to the main/master, simply use `git merge [branchname]`
 
 ## Merging Conflicts ## Credits to [Net-Ninja](https://www.youtube.com/watch?v=XX-Kct0PfFc)
-Conflicts do emerge if one file is edited on the master/main branch, and a branch concurrently. For instance, let's say there is person a editing `file-1.text` 
+Conflicts do emerge if one file is edited on the master/main branch, and a branch concurrently. For instance, let's say there is person a editing [file-1.txt](/learn_branches/file-1.txt) from the master/main, and another on test-1 branch, there would be conflicts when merging it.
